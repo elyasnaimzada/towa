@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'Tandem.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'comstramdb ',
+        'NAME': 'comstramdb',
         'USER': 'comstramuser',
         'PASSWORD': 'Friday16@',
         'HOST': 'localhost',
