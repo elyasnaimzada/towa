@@ -27,6 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="Tandem" type="Python.DjangoServer" factoryName="Django server">
@@ -70,7 +71,7 @@
       <workItem from="1588409444740" duration="644000" />
       <workItem from="1588570463188" duration="1380000" />
       <workItem from="1588758294937" duration="2985000" />
-      <workItem from="1589195578648" duration="3158000" />
+      <workItem from="1589195578648" duration="3483000" />
     </task>
     <servers />
   </component>
@@ -106,5 +107,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1100" height="274" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589197463998" />
+    <state x="132" y="175" key="SettingsEditor" timestamp="1589199704205">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="132" y="175" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589199704205" />
   </component>
 </project>
