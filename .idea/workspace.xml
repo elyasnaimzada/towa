@@ -4,7 +4,6 @@
     <list default="true" id="90788569-2a7f-463f-aeb2-b12d1758e03b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tandem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tandem/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1588409444740" duration="644000" />
       <workItem from="1588570463188" duration="1380000" />
       <workItem from="1588758294937" duration="2985000" />
-      <workItem from="1589195578648" duration="4300000" />
+      <workItem from="1589195578648" duration="4715000" />
     </task>
     <servers />
   </component>

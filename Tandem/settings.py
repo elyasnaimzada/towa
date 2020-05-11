@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'comstramdb ',
-        'USER': 'comstramuser ',
+        'USER': 'comstramuser',
         'PASSWORD': 'Friday16@',
         'HOST': 'localhost',
         'PORT': '',
