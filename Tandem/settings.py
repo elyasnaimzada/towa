@@ -25,7 +25,8 @@ SECRET_KEY = 'f(v=eabyts7e^!iat2mn(sa(q9^h*xdr8x+^ef!h9l0+_0afyq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['157.245.226.145']
+#ALLOWED_HOSTS = []
 
 # Application definition
 
@@ -75,16 +76,13 @@ WSGI_APPLICATION = 'Tandem.wsgi.application'
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 DATABASES = {
     'default': {
-    'ENGINE': 'django.db.backends.mysql',
-    'NAME': 'jobs',
-    'USER': 'root',
-    'PASSWORD': '123456789',
-    'HOST': 'localhost',
-    'PORT': '',
-    'OPTIONS': {
-    'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
-}
-}
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'comstramdb ',
+        'USER': 'comstramuser ',
+        'PASSWORD': 'Friday16@',
+        'HOST': 'localhost',
+        'PORT': '',
+    }
 }
 
 # Password validation
