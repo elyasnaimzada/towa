@@ -16,7 +16,6 @@ idna==2.7
 jmespath==0.9.5
 Mako==1.1.2
 MarkupSafe==1.1.1
-mysqlclient==1.4.6
 pathspec==0.5.9
 psycopg2==2.8.5
 psycopg2-binary==2.8.5
