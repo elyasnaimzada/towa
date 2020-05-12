@@ -16,6 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+admin.site.site_header = "Comstream Job Tracking"
+admin.site.site_title = "Comstream"
+admin.site.index_title = "Jobs Reconcile system"
+
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
