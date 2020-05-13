@@ -19,18 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90788569-2a7f-463f-aeb2-b12d1758e03b" name="Default Changelist" comment="Fixed admin titles">
-      <change afterPath="$PROJECT_DIR$/.idea/Tandem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tandem/settingsDO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tandem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tandem/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="90788569-2a7f-463f-aeb2-b12d1758e03b" name="Default Changelist" comment="Fixed admin titles" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +94,7 @@
       <workItem from="1588570463188" duration="1380000" />
       <workItem from="1588758294937" duration="2985000" />
       <workItem from="1589195578648" duration="9725000" />
-      <workItem from="1589294153808" duration="4069000" />
+      <workItem from="1589294153808" duration="4647000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed Url">
       <created>1589294842819</created>
@@ -121,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589296588161</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed admin titles">
+      <created>1589369821819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589369821819</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,10 +180,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="132" y="175" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589199704205" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1589296602291">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1589369871870">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589296602291" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589369871870" />
     <state x="760" y="425" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589295039656">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
