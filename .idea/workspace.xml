@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90788569-2a7f-463f-aeb2-b12d1758e03b" name="Default Changelist" comment="Fixed admin titles" />
+    <list default="true" id="90788569-2a7f-463f-aeb2-b12d1758e03b" name="Default Changelist" comment="Fixed admin titles">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +64,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="Tandem.settings" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\elyas\PycharmProjects\untitled\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -94,7 +98,8 @@
       <workItem from="1588570463188" duration="1380000" />
       <workItem from="1588758294937" duration="2985000" />
       <workItem from="1589195578648" duration="9725000" />
-      <workItem from="1589294153808" duration="4647000" />
+      <workItem from="1589294153808" duration="8288000" />
+      <workItem from="1589710626510" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed Url">
       <created>1589294842819</created>
@@ -117,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589369821819</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed admin titles">
+      <created>1589370242257</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589370242257</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +145,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed Url" />
@@ -144,9 +157,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="845" y="387" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1589294951245" />
-    <state x="552" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588323563733">
+    <state x="552" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589710909995">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="552" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1589710909995" />
     <state x="552" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588323563733" />
     <state x="1323" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588311368568">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -160,30 +174,34 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="265" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589294416312" />
-    <state width="1876" height="279" key="GridCell.Tab.0.bottom" timestamp="1589295866118">
+    <state width="1100" height="273" key="GridCell.Tab.0.bottom" timestamp="1589710872178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589295866118" />
-    <state width="1876" height="279" key="GridCell.Tab.0.center" timestamp="1589295866118">
+    <state width="1100" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1589710872178" />
+    <state width="938" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589372613093" />
+    <state width="1100" height="273" key="GridCell.Tab.0.center" timestamp="1589710872178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="279" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589295866118" />
-    <state width="1876" height="279" key="GridCell.Tab.0.left" timestamp="1589295866118">
+    <state width="1100" height="273" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1589710872178" />
+    <state width="938" height="279" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589372613092" />
+    <state width="1100" height="273" key="GridCell.Tab.0.left" timestamp="1589710872178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="279" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589295866118" />
-    <state width="1876" height="279" key="GridCell.Tab.0.right" timestamp="1589295866118">
+    <state width="1100" height="273" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1589710872178" />
+    <state width="938" height="279" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589372613092" />
+    <state width="1100" height="273" key="GridCell.Tab.0.right" timestamp="1589710872178">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="279" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589295866118" />
+    <state width="1100" height="273" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1589710872178" />
+    <state width="938" height="279" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589372613093" />
     <state x="132" y="175" key="SettingsEditor" timestamp="1589199704205">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="132" y="175" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1589199704205" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1589369871870">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1589370264681">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589369871870" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1589370264681" />
     <state x="760" y="425" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589295039656">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
